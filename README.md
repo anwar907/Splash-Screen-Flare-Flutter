@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[documentation](https://github.com/anwar907/Splash-Screen-Flare-Flutter/wiki).
 
 example splash:
 
